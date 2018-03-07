@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="CLARIFAI_API_KEY">caf2ead0b65e4c17b735c17dbbc17dc8</string>
+    <string name="CLIENT_ID">XwLbZ0t3ff8vPLSRDaqpveauFkSvJRzyx_X7QbMU</string>
+    <string name="CLIENT_SECRET">CvQYppzOWo1Pxk3jLt2DASunFF6_NpzwOEOIxluP</string>
+</resources>
